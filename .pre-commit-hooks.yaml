@@ -1,13 +1,11 @@
 ---
 - id: 'pyspelling'
   name: 'pyspelling'
+  description: 'This hook runs pyspelling'
   language: 'python'
   entry: 'pyspelling'
-  types:
-    - 'markdown'
   pass_filenames: true
   verbose: true
-#  additional_dependencies:
-#    - 'pyspelling'
-#    - 'pymdown-extensions'
+  additional_dependencies:
+    - 'pymdown-extensions'
 ...
