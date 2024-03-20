@@ -3,6 +3,7 @@
   name: 'pyspelling'
   description: 'This hook runs pyspelling'
   language: 'python'
+  language_version: '3.9'
   entry: 'pyspelling'
   pass_filenames: true
   verbose: true
