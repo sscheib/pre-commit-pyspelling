@@ -42,3 +42,7 @@ Verbosity can be enabled via passing a command line argument as well:
 
 Further configuration is possible. Please review the [`pre-commit`](https://pre-commit.com/) documentation, as well as the documentation for
 [`pyspelling`](https://github.com/facelessuser/pyspelling).
+
+## License
+
+[`GPL-2.0-or-later`](LICENSE)
