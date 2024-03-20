@@ -7,6 +7,7 @@
     - 'markdown'
   pass_filenames: true
   verbose: true
-  additional_dependencies:
-    - 'pymdown-extensions'
+#  additional_dependencies:
+#    - 'pyspelling'
+#    - 'pymdown-extensions'
 ...
