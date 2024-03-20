@@ -1,0 +1,12 @@
+---
+- id: 'pyspelling'
+  name: 'pyspelling'
+  language: 'python'
+  entry: 'pyspelling'
+  types:
+    - 'markdown'
+  pass_filenames: true
+  verbose: true
+  additional_dependencies:
+    - 'pymdown-extensions'
+...
